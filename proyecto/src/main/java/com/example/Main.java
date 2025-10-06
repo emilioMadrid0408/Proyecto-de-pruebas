@@ -15,7 +15,7 @@ public class Main {
         System.out.println("    1) Cuadrado medio");
         System.out.println("    2) Producto medio");
         System.out.println("    3) Lineal");
-        System.out.println("    4111) Multiplicativo");
+        System.out.println("    4) Multiplicativo");
 
         System.out.println("Pruebas de bondad de ajuste:");
         System.out.println("    5) Ji Cuadrada");
