@@ -44,9 +44,11 @@ public class PruebaDistancias {
 
             // si pertenece = 1, entonces i valdra 0
             if (pertenece == 1) {
-                if (!listaDeHuecos.contains(i)) {
-                    listaDeHuecos.add(i);
-                }
+
+                listaDeHuecos.add(i);   
+
+                
+
 
                 i = 0;
                 System.out.println((n + 1) + "      " + listaDeValores.get(n) + "     " + pertenece + "      " + i);
